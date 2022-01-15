@@ -9,6 +9,6 @@ Plutus helps NFT owners to avail loans using their NFT without collateral. Repay
 
 ## Tech Stack
 - Moralis.io - Blockchain & Infrastructure Management, Currenly prototype was deployed on the dev chain server
-= Truffle - for smart contract migration and deployment
+- Truffle - for smart contract migration and deployment
 - ReactJS - Frontend web application
 - Solidity - Smart Contract Programming Language
