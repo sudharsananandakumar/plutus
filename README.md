@@ -1,5 +1,5 @@
 # Plutus
-NFT Hack 2022 - ETH Global Submission
+NFT Hack 2022 - ETH Global Submission https://showcase.ethglobal.co/nfthack2022/plutus
 
 ## The Awesome Team
 Sandra Lam, Amiya Ranjan, Shan Sharma, Teo Ek Neng, Sudharsan Anandakumar
